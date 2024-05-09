@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/App.css';
 
 const App = () => (
   <div className="bg-gray-100 p-4">
